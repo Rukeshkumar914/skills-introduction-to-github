@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Rukesh+Yadav" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=500&lines=Hi+ 👋 +I'm+Rukesh+Yadav; Data+Analytic" />
 </h1>
-<h3 align="center">💻 Data Anayltics 
 
 ---
 
@@ -13,8 +12,8 @@
 ---
 
 ## 🛠️ Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=MySql,PowerBi,MsExcel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
 </p>
 
 ---
@@ -29,10 +28,11 @@
 ---
 
 ## 🌐 Connect with me
-<p>
-  <a href="yrukesh787@gmail.com">📧 Email</a>
+<p align="center">
+  <a href="mailto:yrukesh787@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 ⭐ From [Rukesh Yadav](https://github.com/Rukeshkumar914)
