@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=35&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rukesh+Yadav" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Hii+👋,+I'm+Rukesh+Yadav;Data+Analytics" />
 </h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=400&lines=Data+Analytics" />
-</h3>
 
 ---
 
@@ -17,20 +13,16 @@
 
 ## 🛠 Skills
 
-✔ Programming: Python  
-✔ Database: MySQL  
-✔ Libraries: Pandas, NumPy, Matplotlib, Seaborn  
-✔ Data Visualization: Power BI, MS Excel  
-✔ Tools: Git, GitHub  
+Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | Git | GitHub  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rukeshkumar914&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rukeshkumar914&theme=tokyonight" />
 </p>
 
 ---
