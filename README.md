@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hii+👋,+I'm+Rukesh+Yadav" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rukesh+Yadav;Data+Analytics" />
 </h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=300&lines=Data+Analytics" />
-</h3>
 ---
 
 ## 🚀 About Me
