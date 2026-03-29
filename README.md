@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Rukesh+Yadav" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Rukesh+Yadav+Data+Anayltics" />
 </h1>
 
 ---
@@ -12,9 +12,8 @@
 ---
 
 ## 🛠️ Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
-</p>
+
+Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | Git | GitHub
 
 ---
 
